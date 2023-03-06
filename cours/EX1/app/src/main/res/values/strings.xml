@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Conversion</string>
+    <string name="type">Conversion de Monnaie</string>
+    <string name="value">Donner une valeur flottante</string>
+    <string name="radioButton3">Euro -> Dinars Tunisien</string>
+    <string name="radioButton4">Dianrs Tunisien -> Euro</string>
+    <string name="rdbutt5">Fahrenheit -> Celcius</string>
+    <string name="rdbutt6">Celcius -> Fahrenheit</string>
+    <string name="type1">Conversion de Temperature</string>
+    <string name="conv_butt">Convertir</string>
+    <string name="redirection1">Conversion Euro ---> Dinars</string>
+    <string name="redirection">Conversion Celcius ---> Fahrenheit</string>
+    <string name="result">Resultat</string>
+    <string name="Quitter">Quitter</string>
+
+</resources>

@@ -10,7 +10,7 @@
     <string name="conv_butt">Convertir</string>
     <string name="redirection1">Conversion Euro ---> Dinars</string>
     <string name="redirection">Conversion Celcius ---> Fahrenheit</string>
-    <string name="result">Resultat</string>
+    <string name="result">No Item is selected</string>
     <string name="Quitter">Quitter</string>
 
 </resources>

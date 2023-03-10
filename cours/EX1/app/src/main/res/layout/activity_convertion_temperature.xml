@@ -23,12 +23,15 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="textPersonName"
-        android:hint="Donner la valeur " />
+        android:hint="@string/value"
+        android:layout_marginBottom="20dp"
+
+        />
 
     <RadioGroup
         android:id="@+id/radio_grp2"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+        android:layout_height="200dp">
 
         <RadioButton
             android:id="@+id/radioButton5"
@@ -59,18 +62,4 @@
         android:layout_gravity="center"
         android:layout_marginBottom="100dp"/>
 
-    <Button
-        android:id="@+id/go"
-        android:layout_width="200dp"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center"
-        android:text="@string/redirection1"
-        android:textSize="8dp" />
-
-    <Button
-        android:id="@+id/quitter"
-        android:layout_width="200dp"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center"
-        android:text="@string/Quitter" />
 </LinearLayout>
